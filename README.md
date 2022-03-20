@@ -1,16 +1,19 @@
-### Hi there 👋
+### About me
 
-<!--
-**Filipelion/Filipelion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a brazilian Information System student living in Recife.
 
-Here are some ideas to get you started:
+Currently, I work as a Junior Developer at Accenture Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Concurrently, I work as a Personal Trainer helping my clients to improve their health and physical performance.
+
+
+### What I am focusing on at work
+
+ - Troubleshooting changes to customer business rules and new applications in COBOL.
+
+### Learning and side projects
+
+ - My main educational goal is to complete my degree, but I take other courses in addition to that;
+ - Building utilities to help me achieve a more productive and disciplined lifestyle;
+ - Learning Flutter and Kotlin to create custom solutions for my clients;
+ - Learning Java and Spring Boot to learn more about microservices and the web.

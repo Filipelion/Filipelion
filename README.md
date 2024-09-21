@@ -4,12 +4,9 @@ I'm a brazilian Information System student living in Recife.
 
 Currently, I work as a Junior Developer at Accenture Brasil.
 
-Concurrently, I work as a Personal Trainer helping my clients to improve their health and physical performance.
-
-
 ### What I am focusing on at work
 
- - Troubleshooting changes to customer business rules and new applications in COBOL.
+ - Troubleshooting changes to customer business rules and new applications in Java.
 
 ### Learning and side projects
 
